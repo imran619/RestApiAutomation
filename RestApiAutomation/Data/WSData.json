@@ -1,0 +1,4 @@
+{
+"GET":"https://reqres.in/api/users?page=1",
+"GET_RESPONSE_CODE":"2001"
+}
